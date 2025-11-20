@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="knock-knock-gmrt",
     version="0.1.0",
-    author="GMRT Community",
+    author="Arpan Pal",
     author_email="",
     description="CLI tool to create GMRT observation reminders",
     long_description=long_description,
